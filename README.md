@@ -53,7 +53,9 @@ public class IdleToCruch : MonoBehaviour
 
 ## Output:
 ![y1](https://github.com/Gayathriraj18/Animator/assets/94154854/040b7d18-9b57-4275-8e36-40953887d216)
+Walking Frontward:
 ![y2](https://github.com/Gayathriraj18/Animator/assets/94154854/7fc36b12-4aab-440d-8a15-32aa82d5293a)
+Walking Backward:
 ![y3](https://github.com/Gayathriraj18/Animator/assets/94154854/9ab53009-cd23-4d1f-bd7e-1a0314b461e5)
 
 
